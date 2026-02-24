@@ -1,0 +1,20 @@
+# ============================================
+# Fire Alarm Detection System - Dependencies
+# ============================================
+# Install all: pip install -r requirements.txt
+# ============================================
+
+# Core Dependencies (Required)
+# ----------------------------
+opencv-python>=4.5.0      # Computer vision & camera handling
+numpy>=1.19.0             # Array operations for image processing
+
+# Audio Support (Recommended)
+# ----------------------------
+pygame>=2.0.0             # Audio playback for alarm sound
+                          # Note: If pygame is not installed, the system
+                          # will fall back to Windows native audio on Windows OS
+
+# ============================================
+# Tested with Python 3.7+
+# ============================================
