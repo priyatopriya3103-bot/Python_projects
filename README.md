@@ -46,7 +46,7 @@ Throughout these projects, I have practiced:
 1. Clone this repository:
 
 ```bash
-
+https://github.com/PriyaGupta44/Python_projects.git
 ```
 
 
